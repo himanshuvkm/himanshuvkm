@@ -12,9 +12,6 @@
   <a href="www.linkedin.com/in/himanshu-vishwakarma-2275a5354" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  {/*<a href="https://x.com/Somya_Baran" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>*/}
 </div>
 
 ###
@@ -22,8 +19,15 @@
 <h2 align="left">👩‍💻  About Me</h2>
 
 ###
+<p align="left">
+  I'm Himanshu Vishwakarma — a passionate developer from India 🇮🇳 who loves building modern, scalable, and user-friendly web applications.<br><br>
 
-<p align="left">A passionate coder from India 🇮🇳<br><br>- 📚 Currently learning MERN stack development<br>- 📩 Reach me at himanshuvkm252@gmail.com</p>
+- 🚀 Currently leveling up in **Full-Stack MERN & Next.js Development**  
+- 📦 Interested in **Devops & WEB3**  
+- 🤝 Open to collaboration on **Open Source** and **Web Projects**  
+- 🎯 Goal: Become a **Senior Full-Stack Developer**  
+- 📩 Reach me at: <b>himanshuvkm252@gmail.com</b>  
+</p>
 
 ###
 
@@ -32,29 +36,30 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="js" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwind" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres" />
+  <img src="https://skillicons.dev/icons?i=prisma" height="40" alt="prisma" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+
 </div>
 
----
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=himanshuvkm&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=himanshuvkm&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshuvkm&theme=radical&hide_border=false&layout=compact)
 
 
 ###
