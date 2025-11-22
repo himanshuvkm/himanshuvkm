@@ -36,7 +36,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
@@ -57,8 +57,22 @@
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cpp" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman" />
+
 
 </div>
+
+###
+<div align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=himanshuvkm" 
+    height="200"
+    alt="stats" 
+  />
+</div>
+
 
 
 
