@@ -17,17 +17,17 @@
 
 ###
 
-<h2 align="left">👩‍💻  About Me</h2>
+<h2 align="left"> About Me</h2>
 
 ###
 <p align="left">
   I'm Himanshu Vishwakarma — a passionate developer from India 🇮🇳 who loves building modern, scalable, and user-friendly web applications.<br><br>
 
-- 🚀 Currently leveling up in **Full-Stack MERN & Next.js Development**  
-- 📦 Interested in **Devops & WEB3**  
-- 🤝 Open to collaboration on **Open Source** and **Web Projects**  
-- 🎯 Goal: Become a **Senior Full-Stack Developer**  
-- 📩 Reach me at: <b>himanshuvkm252@gmail.com</b>  
+- Currently leveling up in **Full-Stack MERN & Next.js Development**  
+- Interested in **Devops & WEB3**  
+- Open to collaboration on **Open Source** and **Web Projects**  
+- Goal: Become a **Senior Full-Stack Developer**  
+- Reach me at: <b>himanshuvkm252@gmail.com</b>  
 </p>
 
 ###
