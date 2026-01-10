@@ -12,6 +12,9 @@
   <a href="https://www.linkedin.com/in/himanshu-vishwakarma-2275a5354" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
+   <a href="https://himanshuvkm.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio website" />
+  </a>
 </div>
 
 
@@ -21,14 +24,14 @@
 
 ###
 <p align="left">
-  I'm Himanshu Vishwakarma — a passionate developer from India 🇮🇳 who loves building modern, scalable, and user-friendly web applications.<br><br>
+  I am Himanshu Vishwakarma, a software developer from India with a strong interest in building scalable, maintainable, and user-focused web applications.<br><br>
 
-- Currently leveling up in **Full-Stack MERN & Next.js Development**  
-- Interested in **Devops & WEB3**  
-- Open to collaboration on **Open Source** and **Web Projects**  
-- Goal: Become a **Senior Full-Stack Developer**  
-- Reach me at: <b>himanshuvkm252@gmail.com</b>  
+  • Actively developing skills in Full-Stack MERN and Next.js<br>
+  • Exploring DevOps and Web3 technologies<br>
+  • Open to collaboration on open-source and web-based projects<br>
+  • Contact: <b>himanshuvkm252@gmail.com</b>
 </p>
+
 
 ###
 
