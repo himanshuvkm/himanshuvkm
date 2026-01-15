@@ -68,12 +68,15 @@
 </div>
 
 ###
+<h2 align="center"> My Contributions </h2>
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=himanshuvkm" 
-    height="200"
-    alt="stats" 
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshuvkm&radius=16&theme=github-dark&area=true&order=5" height="250" alt="activity-graph graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>Thanks for stopping by! 😊</h3>
 </div>
 
 
