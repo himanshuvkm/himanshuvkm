@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/himanshu-vishwakarma-2275a5354" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-   <a href="https://himanshuvkm.vercel.app" target="_blank">
+   <a href="https://himanshuvkm.in" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio website" />
   </a>
 </div>
