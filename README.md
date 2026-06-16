@@ -23,10 +23,10 @@
 
 
 
-<h2 align="left">🛠 Technologies I've Worked With</h2>
+<h2 align="center">🛠 Technologies I've Worked With</h2>
 
 
-<div >
+<div align="center" >
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
